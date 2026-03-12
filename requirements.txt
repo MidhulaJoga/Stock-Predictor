@@ -1,0 +1,9 @@
+streamlit
+yfinance
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+plotly
+pandas-market-calendars
