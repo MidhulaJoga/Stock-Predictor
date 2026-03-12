@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+*.pth
+model/prediction_plot.png
+model/prediction_v2.png
